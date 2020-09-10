@@ -1,3 +1,7 @@
+This code is associated with the paper from Waymack et al., "Shadow enhancers can suppress input
+transcription factor noise through distinct
+regulatory logic". eLife, 2020. http://doi.org/10.7554/eLife.59351
+
 # KrShadowEnhancerCode
 Code for analyzing transcriptional traces and generating figures in Waymack, et al., 
 Before running any of this code you first need to run the code for tracking the individual spots of transcription
